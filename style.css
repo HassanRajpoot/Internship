@@ -1,0 +1,29 @@
+.inline {
+    display: flex;
+}
+
+.line {
+    width: 15rem;
+    margin: 7rem;
+}
+
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+
+  }
+  
+  .column1 {
+    vertical-align: top;
+  }
+  
+  .column2 {
+    vertical-align: top;
+  }
+.main{
+    display: flex;
+}
+.line1{
+    width: 7rem;
+    margin: 3rem;
+}
